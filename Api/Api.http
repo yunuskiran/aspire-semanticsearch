@@ -1,0 +1,6 @@
+@Api_HostAddress = https://localhost:7187
+
+GET {{Api_HostAddress}}/search/technology
+Accept: application/json
+
+###
